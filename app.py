@@ -1,5 +1,5 @@
 print("Starting application")
 
-result = 10 / 0
+result = 10/2
 
 print(result)
